@@ -1,0 +1,71 @@
+	Cuestionario
+
+¿Por qué un lenguaje de programación sólo puede utilizarse en algunos sistemas operativos y en otros no?.
+
+Los lenguajes de programacion utilizan informacion clave para generar el codigo maquina que compila, esta informacion se
+basa en el sistema operativo y la arquitectura de software. Si un lenguaje de programacion se diseño para un determinado
+sistema operativo y arquitectura de software no se podra ejecutar en otro escenario donde estos dos puntos sean distintos. 
+ 
+¿Qué tipo de máquina virtual soporta virtualBox?.
+
+Hasta el dia de hoy virtualBox soporta los siguientes sistemas operativos:
+
+Windows hosts (64-bit):
+
+    Windows 8.1
+
+    Windows 10
+
+    Windows 11 21H2
+
+    Windows Server 2012
+
+    Windows Server 2012 R2
+
+    Windows Server 2016
+
+    Windows Server 2019
+
+    Windows Server 2022 
+
+macOS hosts (64-bit):
+
+    10.15 (Catalina)
+
+    11 (Big Sur)
+
+    12 (Monterey) 
+
+
+Linux hosts (64-bit):
+
+    Ubuntu 18.04 LTS, 20.04 LTS y 22.04
+
+    Debian GNU/Linux 10 y 11 
+
+    Oracle Linux 7, 8 and 9
+
+    CentOS/Red Hat Enterprise Linux 7, 8 y 9
+
+    Fedora 35 y 36
+
+    Gentoo Linux
+
+    SUSE Linux Enterprise server 12 y 15
+
+    openSUSE Leap 15.3 
+
+Oracle Solaris hosts (64-bit solo)
+    
+    Oracle Solaris 11.4 
+
+
+¿Qué función cumple el hypervisor en la virtualización?
+
+Un hypervisor nos permite ejecutar varias maquinas virtuales en una unica computadora, de esta manera se puede tener 
+varias maquinas realizando pequeños trabajos sin comprometer el rendimiento general de la computadora o servidor. 
+
+Si tengo más de una máquina virtual instalada, y una se rompe, ¿esto afecta a las demás? ¿por qué?
+
+Cada maquina virtual es independiente por lo que una modificacion, daño o eliminacion solo afectara a la maquina virtual
+que indiquemos. 
